@@ -1,5 +1,3 @@
-waddup this is my first push
+# git-moo
 
-This is a new line
-
-and another one
+we are creating examples of using GIT!
