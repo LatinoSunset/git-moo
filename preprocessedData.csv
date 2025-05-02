@@ -1,0 +1,737 @@
+Age,Hours per day,While working,Instrumentalist,Composer,Fav genre,Exploratory,Foreign languages,BPM,Frequency [Classical],Frequency [Country],Frequency [EDM],Frequency [Folk],Frequency [Gospel],Frequency [Hip hop],Frequency [Jazz],Frequency [K pop],Frequency [Latin],Frequency [Lofi],Frequency [Metal],Frequency [Pop],Frequency [R&B],Frequency [Rap],Frequency [Rock],Frequency [Video game music],Anxiety,Music effects
+18,3,Yes,Yes,Yes,Latin,Yes,Yes,156,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Very frequently,Sometimes,Very frequently,Never,Sometimes,3,
+63,1.5,Yes,No,No,Rock,Yes,No,119,Sometimes,Never,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,7,
+18,4,No,No,No,Video game music,No,Yes,132,Never,Never,Very frequently,Never,Never,Rarely,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Rarely,Very frequently,7,No effect
+61,2.5,Yes,No,Yes,Jazz,Yes,Yes,84,Sometimes,Never,Never,Rarely,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,9,Improve
+18,4,Yes,No,No,R&B,Yes,No,107,Never,Never,Rarely,Never,Rarely,Very frequently,Never,Very frequently,Sometimes,Sometimes,Never,Sometimes,Very frequently,Very frequently,Never,Rarely,7,Improve
+18,5,Yes,Yes,Yes,Jazz,Yes,Yes,86,Rarely,Sometimes,Never,Never,Never,Sometimes,Very frequently,Very frequently,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,Improve
+18,3,Yes,Yes,No,Video game music,Yes,Yes,66,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Sometimes,4,Improve
+21,1,Yes,No,No,K pop,Yes,Yes,95,Never,Never,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Rarely,5,Improve
+19,6,Yes,No,No,Rock,No,No,94,Never,Very frequently,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,2,Improve
+18,1,Yes,No,No,R&B,Yes,Yes,155,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,2,Improve
+18,3,Yes,Yes,No,Country,Yes,No,,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Rarely,Never,7,No effect
+19,8,Yes,No,No,EDM,Yes,No,125,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,1,Improve
+,3,Yes,No,No,Hip hop,Yes,Yes,,Rarely,Never,Rarely,Never,Never,Very frequently,Never,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Rarely,Rarely,Never,9,Improve
+19,2,Yes,No,No,Country,Yes,No,88,Never,Very frequently,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Never,Never,2,Improve
+18,4,Yes,Yes,No,Jazz,Yes,Yes,148,Very frequently,Rarely,Never,Never,Never,Never,Very frequently,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,6,Improve
+17,2,No,No,No,Pop,Yes,Yes,,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,7,Worsen
+16,8,Yes,No,No,Hip hop,Yes,Yes,103,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Sometimes,Very frequently,Never,Rarely,8,Improve
+16,12,Yes,No,Yes,Hip hop,Yes,Yes,120,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,5,Improve
+17,24,Yes,No,No,Rap,Yes,No,99,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Never,7,Improve
+15,3,No,No,No,Hip hop,No,No,120,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Very frequently,Rarely,Never,7,Improve
+15,8,Yes,No,No,Hip hop,Yes,Yes,120,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,6,Improve
+17,4,Yes,No,No,Rap,Yes,No,125,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,10,Improve
+19,5,Yes,No,No,R&B,Yes,Yes,118,Rarely,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Sometimes,Never,Never,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Rarely,6,Improve
+18,2,Yes,No,No,Pop,No,Yes,79,Rarely,Rarely,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Very frequently,Never,Never,Never,Rarely,3,No effect
+16,3,Yes,Yes,Yes,Rock,Yes,Yes,84,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Sometimes,10,Improve
+18,2,No,No,No,Pop,Yes,Yes,169,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,7,Improve
+14,12,Yes,Yes,Yes,Rock,Yes,Yes,136,Sometimes,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,8,Improve
+18,6,Yes,Yes,Yes,Pop,No,Yes,101,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Never,Never,3,Improve
+17,2,Yes,Yes,No,Pop,Yes,Yes,126,Never,Very frequently,Rarely,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Sometimes,6,Improve
+17,1,Yes,No,No,Pop,Yes,No,183,Rarely,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,8,Improve
+20,5,Yes,Yes,No,Rock,Yes,Yes,,Never,Rarely,Rarely,Very frequently,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,7,Improve
+19,2,Yes,No,No,Classical,No,No,120,Very frequently,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Very frequently,4,No effect
+19,6,Yes,Yes,No,Metal,Yes,Yes,,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Never,Sometimes,Sometimes,9,Improve
+17,4,No,No,No,Rock,Yes,Yes,142,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Rarely,5,Improve
+16,1,Yes,No,No,Classical,No,No,75,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Rarely,0,No effect
+18,5,Yes,Yes,No,Pop,Yes,No,120,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,3,Improve
+21,4,Yes,No,No,Pop,No,Yes,89,Never,Never,Rarely,Never,Never,Sometimes,Never,Rarely,Rarely,Never,Never,Very frequently,Never,Rarely,Never,Never,6,Improve
+17,3,Yes,No,No,Pop,Yes,No,,Never,Never,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Sometimes,Very frequently,Very frequently,Never,2,No effect
+26,0.5,No,No,No,Rock,No,Yes,140,Rarely,Never,Rarely,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Very frequently,Never,9,No effect
+20,4,Yes,No,No,EDM,Yes,No,161,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,7,Improve
+23,2,Yes,Yes,Yes,Video game music,Yes,No,80,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,4,Improve
+18,5,Yes,Yes,No,Rock,Yes,No,130,Very frequently,Never,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,7,Improve
+37,0.25,No,No,No,Video game music,Yes,No,147,Very frequently,Rarely,Never,Rarely,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,3,No effect
+17,3,Yes,No,No,Classical,Yes,Yes,120,Very frequently,Never,Very frequently,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,6,Improve
+18,4,Yes,No,No,Metal,Yes,Yes,77,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,1,No effect
+17,1,Yes,Yes,Yes,Folk,No,No,118,Never,Sometimes,Rarely,Very frequently,Never,Rarely,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,7,Improve
+36,1,No,Yes,Yes,Classical,No,No,132,Very frequently,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Never,8,No effect
+24,3,Yes,No,No,Rock,Yes,Yes,115,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,9,Improve
+18,5,Yes,No,Yes,Metal,Yes,Yes,157,Never,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Never,7,Improve
+19,3,Yes,No,No,Pop,No,Yes,90,Sometimes,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,7,No effect
+17,2,Yes,Yes,No,EDM,Yes,No,128,Never,Rarely,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,0,Improve
+16,6,Yes,No,No,K pop,Yes,Yes,169,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,7,Improve
+23,1,No,No,No,Rap,No,Yes,140,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Never,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Rarely,10,No effect
+23,12,Yes,No,No,Pop,Yes,Yes,96,Very frequently,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Never,3,No effect
+22,4,Yes,No,Yes,Rock,Yes,Yes,126,Rarely,Never,Rarely,Sometimes,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Rarely,8,Improve
+16,2,Yes,Yes,No,Classical,Yes,No,,Very frequently,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,0,Improve
+18,6,Yes,No,No,Rock,Yes,No,91,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Never,8,No effect
+42,0,,No,No,Rock,No,Yes,,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,9,No effect
+23,7,Yes,No,No,Folk,Yes,Yes,55,Rarely,Very frequently,Never,Very frequently,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,6,Improve
+23,1,Yes,Yes,No,Video game music,No,No,85,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,7,Improve
+19,1,No,Yes,No,K pop,Yes,Yes,160,Never,Never,Never,Never,Never,Never,Sometimes,Very frequently,Never,Never,Never,Never,Never,Never,Never,Rarely,10,Improve
+22,1,No,Yes,No,Rock,Yes,No,108,Rarely,Never,Sometimes,Rarely,Never,Never,Very frequently,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Rarely,8,Improve
+15,2,Yes,Yes,No,Rock,No,No,156,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Sometimes,3,Improve
+25,2,No,No,No,Metal,No,Yes,170,Rarely,Rarely,Rarely,Sometimes,Never,Rarely,Never,Rarely,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Very frequently,5,No effect
+32,5,Yes,No,No,Rock,No,Yes,91,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,Never,10,Worsen
+36,6,Yes,No,No,Metal,Yes,Yes,174,Very frequently,Never,Rarely,Very frequently,Never,Never,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Never,Never,Sometimes,Very frequently,5,Improve
+24,3,No,No,No,Rock,Yes,Yes,130,Sometimes,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Never,Never,Very frequently,Never,0,No effect
+29,4,No,No,No,Hip hop,Yes,No,140,Rarely,Sometimes,Rarely,Never,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,8,Improve
+41,3,Yes,Yes,Yes,Metal,Yes,Yes,130,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Never,10,Improve
+36,2,Yes,Yes,Yes,Rock,Yes,No,127,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,7,Improve
+19,3,Yes,No,No,Rock,Yes,No,160,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,8,Improve
+31,2,Yes,No,No,Rock,Yes,Yes,,Never,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Never,Never,Very frequently,Never,10,No effect
+16,4,Yes,No,No,Rock,No,Yes,,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Very frequently,9,Improve
+26,2,Yes,Yes,Yes,Hip hop,Yes,Yes,165,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Rarely,6,Improve
+22,0.5,No,No,No,Hip hop,No,No,113,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Never,7,No effect
+16,5,Yes,Yes,Yes,Jazz,Yes,Yes,167,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Sometimes,Never,7,Improve
+17,5,Yes,No,No,Metal,Yes,Yes,95,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Sometimes,4,Improve
+19,10,Yes,No,No,R&B,Yes,Yes,110,Never,Rarely,Very frequently,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Never,7,Improve
+18,2,No,No,No,EDM,No,Yes,150,Sometimes,Rarely,Very frequently,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Rarely,Very frequently,9,Improve
+18,4,Yes,No,No,Hip hop,Yes,Yes,93,Never,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,2,Improve
+19,5,No,Yes,Yes,Rock,Yes,Yes,90,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Rarely,10,Improve
+19,3,Yes,No,No,Jazz,Yes,No,118,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,3,Improve
+22,2,Yes,No,No,K pop,Yes,Yes,126,Never,Never,Very frequently,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Sometimes,Never,Sometimes,Very frequently,Rarely,7,No effect
+16,2.5,Yes,Yes,Yes,Rock,Yes,Yes,103,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Never,Very frequently,Rarely,2,Improve
+19,3,Yes,No,No,R&B,Yes,Yes,77,Rarely,Never,Sometimes,Never,Never,Very frequently,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,5,Improve
+37,1,Yes,No,No,Rock,No,No,115,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9,No effect
+14,7,Yes,Yes,No,Jazz,No,No,110,Rarely,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Sometimes,Never,Never,Very frequently,Very frequently,2,Improve
+33,1,No,No,No,Metal,No,Yes,,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Never,Never,Rarely,Never,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,5,Improve
+26,1,No,No,No,R&B,No,No,113,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Very frequently,Never,Never,Never,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Never,3,No effect
+32,3,Yes,No,No,Hip hop,No,No,157,Never,Never,Rarely,Never,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,2,No effect
+30,5,Yes,Yes,No,Metal,Yes,No,160,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,Never,7,No effect
+43,6,Yes,Yes,Yes,Video game music,Yes,Yes,109,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,5,No effect
+24,4,Yes,No,No,Classical,Yes,Yes,175,Very frequently,Rarely,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Very frequently,Rarely,4,Improve
+36,1,Yes,No,No,Rock,Yes,No,110,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,6,Improve
+19,4,Yes,No,No,Video game music,Yes,No,162,Rarely,Never,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Never,Sometimes,Never,Never,Rarely,Very frequently,8,Improve
+22,10,Yes,No,No,Metal,Yes,Yes,189,Rarely,Very frequently,Never,Very frequently,Never,Never,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Sometimes,9,Improve
+20,3,No,No,Yes,EDM,Yes,Yes,121,Rarely,Sometimes,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,0,Improve
+31,2,No,No,No,Rock,Yes,No,200,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,8,Improve
+19,4,Yes,No,No,Metal,Yes,Yes,105,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Rarely,4,Improve
+15,8,Yes,No,No,Rock,No,No,193,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,8,Improve
+18,2,No,Yes,Yes,Metal,Yes,Yes,149,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,3,Improve
+25,0.5,No,Yes,No,Classical,No,No,140,Very frequently,Never,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,1,Improve
+17,5,Yes,No,No,Metal,Yes,No,134,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10,No effect
+28,1,No,No,No,Rock,Yes,No,120,Rarely,Never,Very frequently,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Rarely,6,No effect
+20,3,Yes,No,No,Rock,Yes,Yes,170,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,6,Improve
+21,2,Yes,Yes,No,Metal,Yes,Yes,107,Sometimes,Rarely,Never,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,8,No effect
+41,3,Yes,No,No,Pop,No,Yes,113,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Never,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Never,9,No effect
+20,2,Yes,Yes,No,Pop,Yes,No,126,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Very frequently,Sometimes,7,Improve
+34,4,Yes,No,No,Metal,Yes,Yes,161,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,Rarely,6,No effect
+21,3,Yes,No,Yes,Metal,Yes,No,,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,Very frequently,Never,Never,Very frequently,Rarely,10,Improve
+23,2,Yes,No,No,Metal,Yes,Yes,100,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Never,Sometimes,Rarely,6,Improve
+16,3,No,No,No,Pop,No,No,140,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Rarely,Never,Never,7,Improve
+19,4,Yes,No,No,Pop,Yes,No,156,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,7,Improve
+22,2,Yes,Yes,No,Rock,Yes,Yes,98,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,Improve
+19,8,Yes,No,No,K pop,Yes,Yes,100,Very frequently,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Rarely,4,Improve
+23,4,Yes,No,No,Hip hop,Yes,Yes,78,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7,Improve
+23,2,No,Yes,No,Metal,No,Yes,117,Never,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,7,Improve
+22,1,No,No,Yes,EDM,Yes,No,128,Never,Never,Very frequently,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Sometimes,Sometimes,Never,2,Improve
+17,3,Yes,No,No,Rock,Yes,No,130,Rarely,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,7,Improve
+28,0.5,No,No,No,Folk,Yes,No,130,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Very frequently,Rarely,4,Improve
+23,2,No,No,No,Rock,Yes,Yes,,Never,Never,Never,Never,Never,Sometimes,Never,Sometimes,Never,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Sometimes,7,No effect
+19,3,Yes,No,No,Rock,Yes,Yes,126,Never,Sometimes,Sometimes,Never,Never,Very frequently,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Very frequently,Sometimes,5,Improve
+17,2,Yes,Yes,Yes,Hip hop,Yes,Yes,122,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Never,10,Improve
+21,1,No,No,No,Rock,Yes,No,179,Never,Rarely,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,6,No effect
+29,5,Yes,No,No,Jazz,Yes,Yes,200,Rarely,Never,Never,Rarely,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Sometimes,7,Improve
+22,10,No,Yes,Yes,EDM,No,Yes,128,Sometimes,Sometimes,Very frequently,Very frequently,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Sometimes,Sometimes,4,Improve
+18,4,Yes,Yes,Yes,Pop,Yes,Yes,130,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,4,Improve
+13,2,Yes,Yes,Yes,Rock,Yes,No,120,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,7,Worsen
+24,1,No,No,No,Metal,Yes,No,86,Sometimes,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,6,Improve
+35,6,Yes,No,No,Rock,Yes,Yes,166,Sometimes,Rarely,Sometimes,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,4,No effect
+29,1,Yes,Yes,No,Video game music,Yes,No,110,Sometimes,Never,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,6,Improve
+28,6,Yes,No,No,Rock,No,No,144,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,10,Improve
+32,7,Yes,No,No,Pop,Yes,Yes,120,Sometimes,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,10,Improve
+32,1,No,No,No,EDM,Yes,No,120,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Never,3,No effect
+21,3,Yes,Yes,No,Rock,Yes,No,160,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8,Improve
+18,2,Yes,Yes,No,Video game music,No,Yes,101,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Very frequently,8,Improve
+19,3,Yes,Yes,No,Classical,Yes,No,122,Very frequently,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Never,Never,Rarely,Sometimes,3,Improve
+18,2,Yes,Yes,No,Pop,Yes,Yes,,Rarely,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,6,Improve
+16,3,Yes,No,Yes,Pop,No,No,,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Very frequently,Never,Rarely,Very frequently,Rarely,0,No effect
+25,1.5,Yes,No,No,Pop,No,No,61,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Never,6,Improve
+17,4,Yes,No,No,Lofi,Yes,Yes,79,Very frequently,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,3,Improve
+16,2,Yes,No,No,Rap,Yes,Yes,126,Very frequently,Never,Never,Never,Never,Very frequently,Never,Sometimes,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,1,No effect
+27,10,Yes,No,No,Metal,Yes,Yes,185,Sometimes,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Rarely,5,Improve
+53,7,Yes,No,No,Pop,Yes,Yes,92,Very frequently,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Rarely,0,Improve
+25,1,Yes,No,No,EDM,No,No,107,Never,Never,Very frequently,Never,Never,Rarely,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,0,Improve
+34,2,No,No,No,Metal,No,No,120,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Never,3,Improve
+22,6,Yes,Yes,Yes,Jazz,Yes,Yes,140,Sometimes,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,8,Improve
+17,2,Yes,Yes,Yes,Jazz,Yes,No,94,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,5,Improve
+26,3,Yes,Yes,No,Folk,Yes,No,160,Rarely,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,8,Improve
+19,8,Yes,No,No,EDM,Yes,No,174,Never,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,6,Improve
+21,3,Yes,No,No,Pop,Yes,Yes,136,Rarely,Very frequently,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,6,Worsen
+32,3,Yes,Yes,Yes,Rock,Yes,Yes,144,Rarely,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Rarely,6,Improve
+21,3,Yes,No,No,Rock,No,No,77,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Very frequently,9,No effect
+25,2,No,Yes,No,Pop,No,No,120,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Never,Sometimes,Never,Never,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,7,Improve
+26,1,No,No,No,Rock,No,No,,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,10,No effect
+21,2,Yes,Yes,No,Metal,Yes,Yes,,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,1,No effect
+17,2,Yes,Yes,No,Pop,No,Yes,,Rarely,Never,Never,Never,Never,Rarely,Very frequently,Very frequently,Never,Very frequently,Never,Very frequently,Very frequently,Sometimes,Never,Sometimes,5,Improve
+28,4,Yes,No,No,Rock,Yes,Yes,194,Rarely,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,6,Improve
+41,4,Yes,No,No,Pop,Yes,No,60,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,7,Improve
+18,1,Yes,Yes,No,Metal,Yes,Yes,190,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Sometimes,6,Improve
+22,2,No,No,No,R&B,No,Yes,87,Sometimes,Never,Never,Never,Never,Rarely,Never,Very frequently,Very frequently,Sometimes,Never,Sometimes,Very frequently,Rarely,Rarely,Sometimes,1,No effect
+18,2,Yes,No,No,K pop,No,Yes,122,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Never,Very frequently,Sometimes,Never,Never,Never,0,
+49,1,Yes,No,No,EDM,Yes,No,156,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,8,Improve
+21,3,Yes,Yes,Yes,Metal,Yes,No,150,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,3,No effect
+27,10,Yes,No,No,Metal,Yes,Yes,194,Never,Rarely,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,Improve
+19,1,No,No,Yes,Metal,Yes,Yes,160,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,6,No effect
+27,3,Yes,No,No,Metal,Yes,Yes,171,Sometimes,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Rarely,1,Improve
+27,1.5,Yes,No,No,Rock,No,No,95,Never,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,5,Improve
+19,3,Yes,Yes,No,K pop,Yes,Yes,114,Sometimes,Never,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,8,
+42,2.5,Yes,Yes,No,Rock,No,Yes,148,Sometimes,Rarely,Very frequently,Rarely,Never,Sometimes,Very frequently,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Rarely,8,Improve
+60,2,Yes,No,No,Gospel,No,No,119,Rarely,Sometimes,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,3,Improve
+19,5,Yes,No,No,Metal,No,Yes,136,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Very frequently,Very frequently,Never,Never,Sometimes,Very frequently,Sometimes,0,No effect
+20,2,Yes,No,No,Pop,Yes,No,141,Rarely,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Sometimes,Never,Very frequently,Sometimes,Rarely,Sometimes,Rarely,6,Improve
+28,2,No,No,Yes,Metal,No,No,146,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Rarely,1,Improve
+16,2,No,Yes,Yes,Video game music,Yes,No,,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,4,No effect
+18,2,Yes,No,No,R&B,No,Yes,164,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Very frequently,Rarely,Never,Never,5,No effect
+34,1,Yes,No,No,Rock,Yes,Yes,,Rarely,Never,Very frequently,Never,Never,Never,Never,Very frequently,Never,Rarely,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,1,No effect
+18,1.5,Yes,No,No,Pop,Yes,No,,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,8,Improve
+21,5,Yes,Yes,Yes,Folk,Yes,Yes,128,Sometimes,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Rarely,9,Improve
+38,0.5,No,No,No,Rock,Yes,Yes,,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Never,4,Improve
+17,2,Yes,No,No,Rock,No,Yes,,Never,Rarely,Rarely,Rarely,Never,Never,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Very frequently,Very frequently,7,Improve
+35,0.5,No,No,No,Pop,No,No,,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Never,Sometimes,Rarely,10,No effect
+21,2,Yes,No,No,Rock,No,Yes,101,Rarely,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,8,Improve
+25,2.5,Yes,No,No,R&B,No,No,,Rarely,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,7,Improve
+18,2,Yes,Yes,No,K pop,Yes,Yes,98,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,7,Improve
+16,2,No,No,No,Pop,Yes,No,145,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,10,Improve
+19,1,Yes,No,No,Pop,Yes,Yes,94,Rarely,Sometimes,Rarely,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Never,7,Improve
+31,4,Yes,Yes,No,Classical,No,Yes,103,Very frequently,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,Never,6,Improve
+26,5,Yes,No,No,Rock,No,No,,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Very frequently,Never,2,No effect
+16,2,Yes,Yes,Yes,Rock,No,No,112,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,7,Improve
+26,2,Yes,Yes,No,Rock,Yes,Yes,,Very frequently,Rarely,Rarely,Very frequently,Never,Rarely,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Very frequently,Very frequently,7,Improve
+17,2,Yes,No,No,R&B,Yes,Yes,118,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,6,Improve
+22,1,Yes,Yes,No,Video game music,Yes,Yes,,Sometimes,Sometimes,Rarely,Very frequently,Never,Never,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,3,Improve
+20,4,Yes,No,No,R&B,Yes,Yes,113,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,9,Improve
+30,1,No,Yes,No,Rock,Yes,No,162,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,8,Improve
+26,4,Yes,No,No,Pop,No,No,,Rarely,Very frequently,Rarely,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Never,Sometimes,Never,8,Improve
+19,5,Yes,No,No,Rock,Yes,Yes,111,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9,No effect
+21,5,Yes,No,No,Country,Yes,No,85,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,9,Improve
+33,7,Yes,No,No,Rock,Yes,Yes,134,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,9,Improve
+28,2,Yes,No,No,Rock,Yes,No,172,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Rarely,10,Improve
+25,3,Yes,No,No,Rock,Yes,Yes,180,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9,Improve
+22,2,Yes,No,No,Pop,No,No,120,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,7,Improve
+19,3,Yes,No,Yes,Rock,Yes,Yes,76,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Rarely,9,Improve
+44,3,Yes,No,No,Folk,Yes,Yes,130,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,9,Improve
+22,3,Yes,No,No,Rock,No,No,,Never,Rarely,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Rarely,9,Improve
+26,5,Yes,Yes,Yes,Metal,Yes,Yes,109,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,10,Improve
+23,6,Yes,No,Yes,Classical,No,Yes,96,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,6,Improve
+17,2,No,No,No,R&B,No,Yes,148,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,8,Improve
+42,2,No,No,No,Metal,Yes,No,,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,8,Improve
+30,1,No,Yes,No,Rock,Yes,No,129,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Rarely,4,Improve
+35,1,Yes,No,No,Pop,Yes,Yes,81,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,2,No effect
+20,3,No,No,No,Rock,Yes,No,136,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Rarely,10,Improve
+18,3,Yes,No,No,Rap,Yes,Yes,155,Rarely,Never,Never,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,8,Improve
+21,1,No,No,No,Pop,No,Yes,,Never,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Very frequently,Sometimes,Rarely,Sometimes,Rarely,4,No effect
+19,6,Yes,No,No,Rock,Yes,Yes,52,Never,Never,Rarely,Very frequently,Never,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,4,Improve
+37,4,Yes,No,No,Rock,Yes,No,97,Rarely,Sometimes,Sometimes,Sometimes,Never,Very frequently,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Never,9,Improve
+31,2,Yes,No,No,Metal,Yes,Yes,92,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,8,Improve
+29,2,Yes,Yes,No,Folk,Yes,Yes,100,Never,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Very frequently,Rarely,6,Improve
+20,3,Yes,No,No,Rock,Yes,Yes,120,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,8,Improve
+36,8,Yes,Yes,Yes,Video game music,No,Yes,143,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,7,No effect
+18,3,Yes,Yes,No,Rock,Yes,No,118,Sometimes,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Very frequently,Rarely,10,Improve
+18,2,Yes,No,No,K pop,Yes,Yes,130,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Never,6,Improve
+25,7,Yes,No,No,Pop,No,Yes,120,Never,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,2,Improve
+18,12,Yes,,No,K pop,Yes,Yes,126,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,3,Improve
+31,9,Yes,No,No,Pop,Yes,Yes,158,Rarely,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Never,Rarely,Sometimes,Sometimes,9,Improve
+17,2,Yes,No,No,Pop,Yes,Yes,160,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Never,5,Improve
+21,1,Yes,No,No,Folk,No,Yes,,Never,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Very frequently,8,Improve
+30,1,No,No,No,Country,No,No,119,Never,Very frequently,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Rarely,8,Improve
+40,2,Yes,No,No,Metal,Yes,Yes,120,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,3,No effect
+64,4,Yes,No,No,Rock,No,No,200,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,4,Improve
+14,2,Yes,Yes,No,Rock,Yes,Yes,136,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Never,Never,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,7,Improve
+26,6,Yes,No,No,Rock,Yes,No,104,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Very frequently,Never,3,No effect
+35,4,Yes,Yes,Yes,Country,Yes,Yes,90,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,9,Improve
+33,1,No,No,No,Rock,No,No,120,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Never,3,No effect
+30,6,Yes,No,No,Folk,Yes,Yes,89,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Very frequently,Never,9,No effect
+31,2,No,Yes,No,Metal,Yes,,95,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,7,Improve
+27,5,Yes,No,Yes,Folk,Yes,Yes,140,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Never,Very frequently,Very frequently,0,Improve
+53,1.5,No,No,No,Pop,Yes,Yes,92,Rarely,Never,Very frequently,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,2,No effect
+23,5,Yes,Yes,Yes,Metal,Yes,Yes,120,Sometimes,Rarely,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,6,Improve
+25,2,Yes,No,Yes,EDM,Yes,No,128,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Rarely,6,Improve
+16,4,Yes,Yes,No,K pop,Yes,Yes,140,Very frequently,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Rarely,8,Improve
+18,2,Yes,Yes,Yes,Rock,Yes,No,,Never,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Rarely,Very frequently,Never,6,Improve
+29,5,Yes,Yes,Yes,Classical,Yes,Yes,,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,7,Improve
+31,6,Yes,No,No,EDM,Yes,Yes,136,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,8,No effect
+31,1,No,No,No,Rock,No,Yes,132,Sometimes,Rarely,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,3,Worsen
+38,6,Yes,Yes,No,Pop,Yes,Yes,107,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Never,9,Improve
+17,4,No,Yes,No,Classical,Yes,Yes,135,Very frequently,Never,Never,Never,Never,Very frequently,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,7,Worsen
+25,2,No,No,No,EDM,No,Yes,171,Never,Sometimes,Very frequently,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,10,Improve
+20,2,No,Yes,Yes,Metal,No,Yes,220,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Rarely,0,No effect
+15,2,Yes,No,No,EDM,No,No,171,Never,Never,Very frequently,Never,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,9,No effect
+16,4,Yes,No,Yes,Lofi,Yes,No,85,Rarely,Rarely,Very frequently,Rarely,Never,Rarely,Rarely,Never,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Rarely,Very frequently,7,Improve
+20,2,Yes,Yes,No,EDM,No,Yes,174,Sometimes,Never,Very frequently,Never,Never,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,9,Improve
+23,6,Yes,No,No,Rap,Yes,Yes,87,Never,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Never,Never,Very frequently,Very frequently,Sometimes,Rarely,Never,3,Improve
+22,3,Yes,No,No,Hip hop,Yes,Yes,77,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,6,Improve
+15,5,Yes,No,No,Rock,Yes,Yes,126,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,10,Improve
+17,0.5,Yes,Yes,No,Video game music,No,Yes,136,Rarely,Sometimes,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Very frequently,6,Improve
+22,1,Yes,No,No,Video game music,Yes,Yes,80,Rarely,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Very frequently,3,No effect
+21,10,Yes,No,No,Metal,Yes,Yes,92,Never,Rarely,Rarely,Never,Never,Very frequently,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Sometimes,9,No effect
+19,2,Yes,No,No,Pop,No,Yes,120,Rarely,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,7,No effect
+32,0.5,No,No,No,Classical,Yes,No,,Very frequently,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,3,No effect
+34,1,No,No,No,Rock,No,Yes,138,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,9,Improve
+18,2,Yes,Yes,No,Metal,Yes,Yes,150,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,5,Improve
+21,3,Yes,No,No,Country,Yes,No,108,Rarely,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,0,Improve
+20,3,No,No,No,Country,Yes,Yes,119,Rarely,Very frequently,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Never,Never,Very frequently,Very frequently,Rarely,Sometimes,Never,8,Improve
+19,2,Yes,No,No,Country,Yes,No,125,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Never,7,No effect
+25,1,No,No,No,Pop,No,Yes,,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,9,No effect
+31,8,Yes,Yes,No,Classical,Yes,Yes,,Very frequently,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,5,Improve
+21,1,Yes,Yes,No,Pop,Yes,Yes,85,Very frequently,Rarely,Rarely,Sometimes,Never,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,5,Improve
+31,1,No,No,Yes,Folk,Yes,Yes,113,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,4,Improve
+20,1,No,No,No,Pop,Yes,No,86,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Very frequently,Never,Never,Sometimes,Never,3,Improve
+19,5,Yes,Yes,No,Rock,Yes,No,141,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Never,2,Improve
+19,5,Yes,No,No,EDM,Yes,Yes,97,Rarely,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,Very frequently,Sometimes,Rarely,0,Improve
+23,4,Yes,No,No,Metal,Yes,Yes,,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,7,Improve
+24,8,Yes,No,Yes,Video game music,Yes,No,120,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Very frequently,6,Improve
+20,0.7,No,No,No,Rock,No,No,144,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Very frequently,Rarely,Never,Very frequently,Rarely,5,Improve
+15,3,No,No,No,Video game music,No,No,84,Rarely,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Never,Never,Very frequently,Very frequently,6,No effect
+17,7,Yes,No,No,Hip hop,No,Yes,84,Never,Never,Rarely,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,8,Improve
+20,1.5,No,Yes,Yes,Video game music,No,Yes,60,Very frequently,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,8,Worsen
+14,4,Yes,Yes,Yes,Video game music,Yes,Yes,81,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Very frequently,8,Improve
+24,4,Yes,No,No,Metal,Yes,Yes,150,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,8,Improve
+14,10,Yes,No,Yes,Video game music,No,No,95,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Rarely,Very frequently,5,Improve
+23,2,Yes,Yes,Yes,Rock,Yes,No,138,Very frequently,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,6,No effect
+28,2,Yes,No,No,Rock,No,No,,Rarely,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,7,No effect
+22,6,Yes,No,No,Jazz,Yes,Yes,140,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,8,Improve
+25,0.5,Yes,Yes,No,Rock,Yes,Yes,139,Rarely,Never,Very frequently,Never,Never,Rarely,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Sometimes,10,Improve
+27,2,Yes,Yes,Yes,Pop,Yes,Yes,100,Sometimes,Rarely,Very frequently,Never,Never,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,8,Improve
+18,5,Yes,No,No,Rock,Yes,Yes,,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Rarely,Never,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,8,Improve
+17,3,Yes,Yes,Yes,Pop,Yes,No,120,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,Improve
+23,4.5,Yes,No,No,Rock,No,Yes,,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,6,No effect
+40,3,Yes,No,No,Rock,Yes,Yes,178,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,0,Improve
+27,20,Yes,No,No,Rock,Yes,Yes,,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8,No effect
+18,1,No,No,No,Pop,Yes,No,100,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Rarely,3,No effect
+16,2.5,No,Yes,Yes,Metal,Yes,No,110,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Rarely,Very frequently,Sometimes,5,Improve
+18,1,No,No,No,Rock,Yes,Yes,108,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,8,Improve
+23,2,No,Yes,No,Jazz,No,Yes,,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,10,No effect
+15,5,Yes,Yes,No,Metal,Yes,No,161,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Never,6,Improve
+20,3,Yes,Yes,No,Metal,Yes,No,200,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,7,Improve
+16,3,Yes,Yes,No,Rock,Yes,No,,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,9,Improve
+16,0.5,No,No,No,Rock,No,Yes,156,Sometimes,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Very frequently,Sometimes,8,Improve
+20,8,Yes,Yes,Yes,Country,Yes,No,120,Never,Very frequently,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Never,8,No effect
+33,2,Yes,No,No,Metal,Yes,Yes,,Rarely,Rarely,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Sometimes,Sometimes,Sometimes,7,Improve
+22,3,Yes,Yes,Yes,Rock,Yes,Yes,90,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Never,10,Improve
+21,3,Yes,No,No,Hip hop,Yes,Yes,85,Never,Never,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,Improve
+21,5,Yes,Yes,No,Metal,Yes,Yes,171,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,8,Improve
+29,1.5,Yes,No,Yes,Rock,Yes,Yes,108,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,Improve
+56,1,Yes,No,No,Pop,No,No,105,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Sometimes,Never,6,No effect
+17,2,Yes,Yes,No,Pop,Yes,No,76,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Never,Rarely,7,Improve
+22,1,Yes,No,No,Pop,No,No,108,Rarely,Rarely,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Rarely,7,Improve
+26,4,Yes,No,No,Pop,Yes,Yes,140,Sometimes,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Rarely,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,8,No effect
+30,1,Yes,No,No,EDM,Yes,Yes,200,Never,Never,Very frequently,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,4,Improve
+49,2,Yes,No,No,Folk,Yes,No,147,Rarely,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,0,No effect
+22,2,Yes,Yes,Yes,EDM,Yes,Yes,120,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,6,Improve
+32,2,No,No,No,Rock,Yes,No,158,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,4,Improve
+32,1,No,No,No,Rock,No,No,110,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Sometimes,Very frequently,Rarely,Never,Very frequently,Never,8,No effect
+22,6,Yes,No,No,Country,Yes,No,103,Never,Very frequently,Never,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Never,Sometimes,Very frequently,Rarely,5,Improve
+17,2,Yes,No,No,Rock,Yes,Yes,93,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,0,Improve
+21,4,Yes,Yes,No,Rock,Yes,No,62,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Very frequently,Never,7,Improve
+17,1.5,Yes,No,No,Rock,Yes,Yes,180,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,8,No effect
+25,3,Yes,No,No,Metal,No,No,150,Sometimes,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Never,Very frequently,Sometimes,9,Improve
+15,4,Yes,No,Yes,Rock,Yes,No,105,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Never,8,Improve
+13,10,Yes,No,No,Rap,Yes,No,140,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Very frequently,Never,Rarely,7,Improve
+38,3,Yes,No,No,Rock,No,Yes,,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Very frequently,Sometimes,Rarely,Never,Very frequently,Never,6,No effect
+23,3,No,No,No,Rock,Yes,No,161,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,7,Improve
+17,3,Yes,No,No,Pop,Yes,Yes,120,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,1,Improve
+59,2,Yes,No,No,Pop,Yes,No,103,Rarely,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Never,1,Improve
+22,2,Yes,Yes,Yes,Pop,Yes,No,72,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Rarely,Never,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,2,Improve
+17,3,Yes,No,No,Pop,Yes,Yes,113,Sometimes,Rarely,Never,Never,Never,Very frequently,Sometimes,Very frequently,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Sometimes,Rarely,6,No effect
+27,2,No,No,No,Pop,No,No,120,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,7,No effect
+23,5,Yes,Yes,No,Video game music,No,No,95,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,8,No effect
+15,6,Yes,No,No,Rock,No,No,97,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Very frequently,Sometimes,8,Improve
+22,3,Yes,Yes,Yes,EDM,Yes,No,140,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,5,Improve
+23,5,Yes,No,No,Lofi,Yes,Yes,120,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Very frequently,7,Improve
+19,5,Yes,No,No,Country,Yes,Yes,118,Rarely,Very frequently,Never,Very frequently,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,7,Improve
+32,6,Yes,No,No,Rock,No,No,91,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Rarely,8,Improve
+40,6,Yes,No,No,Rock,Yes,Yes,128,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10,No effect
+21,3,Yes,No,No,Country,Yes,No,86,Never,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Never,6,Improve
+21,10,Yes,No,No,Rock,Yes,Yes,107,Rarely,Never,Very frequently,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,8,No effect
+23,2,Yes,No,No,Video game music,Yes,Yes,180,Sometimes,Never,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Sometimes,Very frequently,10,Worsen
+21,2,Yes,No,No,EDM,No,Yes,,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Sometimes,Very frequently,10,
+35,3,No,Yes,No,Folk,Yes,No,0,Sometimes,Sometimes,Never,Sometimes,Never,Never,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,8,No effect
+18,1.5,No,No,No,Hip hop,No,No,150,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Never,3,Improve
+21,10,Yes,No,No,Pop,Yes,No,112,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,9,Improve
+22,2,Yes,No,No,Video game music,No,Yes,,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,5,Improve
+23,3,Yes,Yes,Yes,Rock,Yes,Yes,66,Rarely,Rarely,Never,Very frequently,Never,Sometimes,Sometimes,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,Never,10,Improve
+13,2.5,Yes,No,No,Folk,No,No,118,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,8,Improve
+19,3,Yes,No,No,K pop,Yes,Yes,110,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Never,6,Improve
+33,0.5,Yes,Yes,No,Rock,No,No,80,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Rarely,7,Improve
+18,16,Yes,No,Yes,Jazz,Yes,Yes,90,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,3,Improve
+17,6,Yes,Yes,No,Classical,Yes,Yes,120,Very frequently,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Very frequently,Never,Never,Never,Rarely,4,Improve
+16,3,Yes,No,No,EDM,Yes,Yes,100,Rarely,Never,Very frequently,Never,Never,Very frequently,Sometimes,Very frequently,Never,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,4,Improve
+18,0.5,No,No,No,Rock,Yes,No,66,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,5,No effect
+19,5,Yes,No,No,K pop,Yes,Yes,158,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Rarely,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Rarely,Rarely,4,Improve
+15,2,No,Yes,No,Rap,Yes,Yes,105,Very frequently,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Sometimes,Never,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,4,No effect
+17,2,Yes,No,No,Pop,Yes,Yes,208,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,7,Improve
+25,2,Yes,No,No,Lofi,Yes,Yes,91,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,7,Improve
+24,1.5,Yes,No,No,Video game music,No,Yes,171,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,3,Improve
+23,1,Yes,Yes,No,Jazz,Yes,No,150,Rarely,Rarely,Very frequently,Never,Rarely,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Sometimes,9,Improve
+16,10,Yes,Yes,No,EDM,Yes,Yes,180,Rarely,Rarely,Very frequently,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,10,Improve
+25,2,Yes,No,No,Metal,Yes,Yes,,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9,Improve
+16,15,Yes,Yes,Yes,EDM,Yes,No,85,Rarely,Never,Very frequently,Never,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Very frequently,Sometimes,8,Improve
+20,0.5,No,No,No,Metal,Yes,Yes,150,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,8,Improve
+17,3,Yes,No,No,Metal,Yes,No,104,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,Never,5,Improve
+29,2,Yes,No,No,Metal,Yes,No,,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,Never,9,Improve
+20,4,Yes,No,No,Hip hop,Yes,No,85,Never,Rarely,Very frequently,Rarely,Never,Very frequently,Never,Never,Never,Never,Never,Sometimes,Sometimes,Very frequently,Sometimes,Never,3,Improve
+16,2,Yes,No,No,Folk,Yes,No,,Never,Never,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Sometimes,Very frequently,Never,Rarely,Sometimes,Never,7,Improve
+21,1,Yes,No,No,Rock,Yes,No,147,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Very frequently,Very frequently,7,Improve
+16,24,Yes,No,No,Rock,Yes,Yes,120,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,5,Improve
+43,1,Yes,No,No,Pop,Yes,No,134,Sometimes,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,3,Improve
+32,2,Yes,Yes,No,Classical,Yes,No,,Very frequently,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,8,Improve
+10,2,Yes,Yes,No,Pop,Yes,Yes,112,Very frequently,Never,Rarely,Never,Never,Rarely,Rarely,Very frequently,Never,Rarely,Never,Very frequently,Never,Rarely,Never,Very frequently,8,Improve
+27,3,Yes,No,No,Metal,Yes,Yes,200,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,4,Improve
+24,3,Yes,Yes,No,Classical,No,Yes,75,Very frequently,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Never,Never,9,Improve
+18,2,Yes,No,No,Hip hop,Yes,Yes,20,Rarely,Never,Rarely,Never,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Never,Never,Sometimes,Very frequently,Very frequently,Never,Never,10,Improve
+17,7,Yes,No,No,Rock,No,No,140,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Very frequently,Sometimes,8,Improve
+19,6,Yes,No,No,Metal,Yes,No,111,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Sometimes,1,Improve
+16,3,Yes,No,No,Rock,Yes,Yes,150,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,5,Improve
+64,5,Yes,No,Yes,Rock,Yes,No,,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Never,7,Improve
+33,4,Yes,Yes,Yes,Lofi,Yes,Yes,114,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,8,Improve
+32,3,Yes,Yes,No,Rock,No,Yes,93,Very frequently,Sometimes,Sometimes,Sometimes,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Rarely,2,No effect
+15,2,Yes,Yes,No,Pop,Yes,No,145,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,Sometimes,Never,Never,6,Improve
+27,3,Yes,No,No,Metal,Yes,Yes,100,Very frequently,Very frequently,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,2,Improve
+20,2,Yes,No,No,Rock,Yes,No,114,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,6,No effect
+23,2,Yes,No,No,Pop,Yes,Yes,109,Rarely,Very frequently,Never,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,6,Improve
+19,3,No,Yes,No,Classical,Yes,No,,Very frequently,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,7,Improve
+12,2,Yes,Yes,Yes,Classical,No,No,,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,0,Improve
+16,3,Yes,Yes,Yes,Classical,No,No,72,Very frequently,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Rarely,9,No effect
+17,0,No,No,No,Video game music,No,Yes,89,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Very frequently,10,No effect
+14,1,Yes,Yes,No,Pop,Yes,No,140,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,6,Improve
+32,2,Yes,No,No,Metal,Yes,No,84,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Very frequently,4,Improve
+20,2,Yes,Yes,No,Pop,No,Yes,132,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,6,No effect
+54,6,Yes,No,No,Classical,No,No,,Very frequently,Sometimes,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Never,2,Improve
+18,5,Yes,No,No,K pop,Yes,Yes,124,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,7,Improve
+14,2,Yes,Yes,No,Classical,Yes,No,181,Very frequently,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Rarely,7,Improve
+13,4,Yes,Yes,Yes,Classical,Yes,No,126,Very frequently,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Sometimes,Sometimes,8,Improve
+19,8,Yes,No,Yes,Country,Yes,No,109,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,7,Improve
+14,4,Yes,Yes,No,Classical,Yes,No,106,Very frequently,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,6,Improve
+14,1.5,No,Yes,No,Classical,Yes,,140,Very frequently,Never,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,1,Improve
+18,2,Yes,Yes,No,Rap,Yes,Yes,170,Very frequently,Never,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,3,Improve
+15,5,Yes,No,No,Folk,Yes,Yes,87,Rarely,Sometimes,Never,Very frequently,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Rarely,Rarely,6,Improve
+24,6,Yes,Yes,No,Classical,No,No,,Very frequently,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Never,6,No effect
+17,2,Yes,No,No,Pop,No,Yes,117,Rarely,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Very frequently,Very frequently,Never,Never,Sometimes,9,Improve
+44,2,No,No,No,Rock,Yes,No,105,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Never,7,Improve
+23,1,No,Yes,No,Rock,Yes,No,,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Never,1,Improve
+21,1,No,No,No,Rap,No,No,160,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,4,Improve
+57,2,No,No,No,R&B,Yes,No,,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,2,Improve
+23,2,Yes,Yes,No,Rock,Yes,Yes,141,Rarely,Rarely,Never,Very frequently,Never,Rarely,Never,Never,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,Very frequently,Very frequently,0,No effect
+18,1,Yes,Yes,No,Pop,No,Yes,105,Sometimes,Rarely,Never,Never,Rarely,Never,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Never,Never,Never,Very frequently,8,Improve
+26,14,Yes,No,No,Hip hop,Yes,Yes,158,Sometimes,Sometimes,Rarely,Very frequently,Never,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,5,No effect
+13,3,Yes,,Yes,Classical,No,No,80,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,8,Improve
+15,3,Yes,Yes,Yes,Classical,Yes,No,118,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,9,Improve
+57,2,Yes,Yes,Yes,Rock,Yes,No,125,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Never,2,No effect
+12,0.5,Yes,Yes,Yes,Classical,Yes,Yes,109,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,7,Improve
+26,6,Yes,No,No,EDM,No,Yes,156,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,10,No effect
+17,1,Yes,Yes,No,Country,No,No,105,Never,Very frequently,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,8,Improve
+17,2,Yes,Yes,No,Classical,Yes,Yes,,Very frequently,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Sometimes,7,Improve
+69,4,Yes,Yes,Yes,Classical,Yes,Yes,72,Very frequently,Sometimes,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Never,1,Improve
+17,3,Yes,Yes,Yes,R&B,Yes,Yes,148,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Never,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Never,9,No effect
+32,12,Yes,Yes,Yes,Jazz,Yes,Yes,200,Never,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Rarely,Never,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Never,9,Improve
+22,3,No,Yes,No,Classical,Yes,No,113,Very frequently,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,8,No effect
+38,1,No,No,No,Metal,Yes,Yes,191,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,1,Improve
+18,10,Yes,No,No,EDM,Yes,No,140,Never,Never,Very frequently,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Never,10,Improve
+14,5,Yes,Yes,No,Classical,Yes,Yes,40,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,3,Improve
+14,0.5,Yes,Yes,No,Video game music,Yes,Yes,173,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Never,Never,Never,Very frequently,4,Improve
+19,5,Yes,Yes,Yes,Metal,Yes,Yes,180,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,2,Improve
+20,3,Yes,Yes,Yes,Classical,Yes,No,100,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Rarely,2,Improve
+18,2,No,No,No,Rock,Yes,No,123,Never,Very frequently,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,8,Improve
+30,13,,No,No,K pop,Yes,Yes,145,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,10,Improve
+31,4,Yes,Yes,No,Classical,Yes,Yes,55,Very frequently,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,8,Improve
+72,6,Yes,Yes,Yes,Rock,No,No,77,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Rarely,Very frequently,Never,Very frequently,Never,0,Improve
+73,3,Yes,No,No,R&B,Yes,Yes,4,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Never,5,Improve
+16,4,Yes,No,No,Pop,Yes,Yes,150,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,7.5,Improve
+19,3,No,Yes,No,Rap,Yes,Yes,73,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,3,Improve
+16,2,Yes,Yes,No,Classical,No,No,155,Very frequently,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Never,Never,Rarely,Rarely,7,Improve
+12,2,Yes,Yes,Yes,Classical,Yes,Yes,,Very frequently,Rarely,Never,Never,Rarely,Sometimes,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,8,Improve
+39,1,Yes,No,No,Hip hop,Yes,Yes,89,Never,Rarely,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Never,6,Improve
+15,6,Yes,Yes,No,K pop,Yes,Yes,110,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Never,8,No effect
+14,9,Yes,No,No,R&B,Yes,Yes,140,Very frequently,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Rarely,10,Improve
+21,1,No,No,No,Country,No,No,135,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,3,Improve
+38,1,Yes,No,No,Video game music,No,No,125,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,5,Worsen
+23,0.5,No,No,Yes,Hip hop,Yes,Yes,110,Sometimes,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,7,Improve
+16,1,No,No,No,EDM,Yes,No,140,Never,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,7,Improve
+21,1.5,Yes,Yes,No,Folk,No,No,105,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,3,
+13,6,Yes,No,No,Rap,Yes,No,112,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Never,Rarely,Never,Rarely,Never,Very frequently,Never,Never,4,Worsen
+16,4,Yes,No,No,Rock,Yes,No,96,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Never,Very frequently,Sometimes,3,Improve
+18,6,Yes,No,Yes,Rock,Yes,No,,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Never,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,5,Improve
+21,4,Yes,No,No,Metal,Yes,Yes,155,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Very frequently,10,Improve
+17,1.5,Yes,No,No,Classical,Yes,Yes,174,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Sometimes,Never,Very frequently,Rarely,Never,Never,Never,7,No effect
+24,2,Yes,No,No,Rock,Yes,Yes,93,Rarely,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Very frequently,Never,7,No effect
+14,2,Yes,No,No,Pop,Yes,No,78,Rarely,Never,Never,Sometimes,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,6,Improve
+25,4,Yes,No,No,Rock,Yes,Yes,,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,6,Improve
+22,3,Yes,No,No,Lofi,Yes,Yes,174,Rarely,Very frequently,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,7,Improve
+20,4,Yes,No,No,Rock,Yes,Yes,120,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Rarely,5,No effect
+23,2,Yes,No,No,Pop,No,No,75,Sometimes,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7,Improve
+61,2,Yes,No,No,Rock,Yes,No,94,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,2,Improve
+24,6,Yes,No,No,Video game music,No,Yes,180,Sometimes,Never,Sometimes,Very frequently,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Very frequently,9,Improve
+34,0,No,Yes,No,Rock,No,Yes,115,Rarely,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,3,Worsen
+49,1,No,No,No,Pop,Yes,No,128,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Sometimes,Never,4,Improve
+33,4,Yes,Yes,No,Rock,Yes,Yes,112,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Very frequently,Very frequently,1,Improve
+22,2,No,Yes,Yes,Metal,No,No,140,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,3,No effect
+38,3,Yes,No,No,Metal,Yes,Yes,143,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,1,Improve
+23,4,No,No,No,Hip hop,Yes,No,72,Rarely,Rarely,Never,Rarely,Never,Very frequently,Rarely,Never,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Rarely,8,No effect
+34,2,No,No,No,Video game music,No,Yes,100,Rarely,Rarely,Rarely,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Very frequently,8,No effect
+40,3,Yes,No,No,Metal,Yes,Yes,120,Never,Never,Never,Never,Never,Never,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Never,3,No effect
+27,1,No,No,No,Hip hop,Yes,No,,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Never,Never,3,Improve
+54,10,Yes,No,No,Rock,Yes,No,,Sometimes,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Sometimes,Never,2,Improve
+16,10,No,No,No,Rock,Yes,No,105,Rarely,Very frequently,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,0,No effect
+23,10,Yes,No,No,Video game music,No,Yes,119,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Sometimes,Very frequently,8,Improve
+35,4,No,No,No,Country,Yes,No,,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,1,No effect
+22,4,Yes,No,No,Folk,Yes,Yes,137,Rarely,Sometimes,Very frequently,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,Improve
+41,3,No,No,No,Metal,Yes,Yes,178,Very frequently,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,6,No effect
+63,2,Yes,No,No,Rock,Yes,No,133,Very frequently,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Never,5,Improve
+28,1,No,Yes,No,Rock,Yes,No,72,Rarely,Rarely,Never,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Sometimes,Never,3,No effect
+22,6,Yes,Yes,No,Country,Yes,No,,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,4,Improve
+58,1,Yes,No,No,Rock,Yes,No,133,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Never,5,Improve
+58,1,Yes,Yes,Yes,Classical,Yes,No,80,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Never,Never,Never,0,Improve
+67,4,Yes,No,No,Rock,No,No,146,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Never,7,Improve
+70,2,Yes,No,No,Country,No,No,88,Sometimes,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,8,Improve
+60,2,Yes,No,No,Rock,No,Yes,132,Sometimes,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,4,Improve
+15,2,Yes,Yes,Yes,Pop,Yes,No,102,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Never,Very frequently,Sometimes,Never,Sometimes,Very frequently,9,Improve
+18,6,Yes,No,No,EDM,Yes,Yes,91,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,5,Improve
+58,3,Yes,No,No,Hip hop,Yes,Yes,127,Sometimes,Never,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Never,Sometimes,Very frequently,Never,Rarely,Very frequently,Sometimes,Sometimes,Never,4,Improve
+28,1,Yes,No,No,Lofi,Yes,Yes,82,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,4,Improve
+22,4,Yes,Yes,No,Lofi,Yes,No,141,Rarely,Rarely,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9,Improve
+49,0.5,No,No,No,Classical,No,No,114,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,3,Improve
+20,8,Yes,No,No,Rock,Yes,Yes,148,Never,Rarely,Rarely,Sometimes,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Never,Very frequently,Sometimes,6,Improve
+55,15,Yes,No,No,Rock,No,No,156,Rarely,Never,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Very frequently,Never,2,No effect
+48,1.5,Yes,Yes,No,Metal,No,No,185,Rarely,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Rarely,10,Improve
+14,2,Yes,Yes,No,K pop,Yes,Yes,114,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Rarely,4,Improve
+18,3,Yes,Yes,No,Pop,Yes,Yes,120,Sometimes,Never,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7,Improve
+25,1,Yes,No,No,Pop,Yes,Yes,80,Very frequently,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,7,Improve
+71,0.25,Yes,No,No,Gospel,No,Yes,,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Rarely,Never,1,Improve
+60,1,No,Yes,Yes,Gospel,No,No,,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,6,Improve
+18,1,Yes,No,Yes,Video game music,No,No,116,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Rarely,Sometimes,Sometimes,Very frequently,4,No effect
+19,5,Yes,No,No,Hip hop,No,Yes,99,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,10,Improve
+74,1,No,No,No,Pop,No,No,129,Rarely,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Never,Sometimes,Never,4,Improve
+36,1,Yes,No,No,Hip hop,No,No,131,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,7,Improve
+14,7,Yes,No,No,Lofi,Yes,Yes,95,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Very frequently,Never,Very frequently,Never,Sometimes,Never,Rarely,3,Improve
+20,3,No,Yes,Yes,Hip hop,Yes,Yes,80,Very frequently,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,10,Improve
+15,3,Yes,No,No,K pop,Yes,Yes,204,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Very frequently,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,4,No effect
+19,7,Yes,No,No,Rock,No,No,128,Sometimes,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Sometimes,7,Improve
+29,8,Yes,No,No,EDM,No,Yes,140,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Very frequently,Very frequently,6,Improve
+24,2,Yes,No,No,Metal,Yes,No,159,Never,Rarely,Very frequently,Sometimes,Very frequently,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Never,Sometimes,Rarely,7,Improve
+18,2,Yes,No,No,Pop,Yes,Yes,104,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Never,6,Improve
+21,2,Yes,No,No,Rock,Yes,Yes,97,Sometimes,Never,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Rarely,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,10,Improve
+19,2,Yes,No,No,K pop,Yes,Yes,80,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Sometimes,Never,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,7,Improve
+25,4,No,No,No,Video game music,Yes,Yes,134,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,3,Improve
+28,8,Yes,No,No,Rock,Yes,Yes,,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,No effect
+27,4,Yes,No,No,Rap,Yes,No,135,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Rarely,7,Improve
+60,1,No,No,No,Rock,Yes,No,129,Sometimes,Rarely,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Never,3,No effect
+25,5,No,No,No,Metal,No,Yes,,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Rarely,8,Improve
+60,2,Yes,No,No,Rock,No,No,,Rarely,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,7,Improve
+43,1,No,No,No,Country,No,No,110,Never,Very frequently,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Never,5,Improve
+51,5,Yes,No,No,Rock,No,No,180,Sometimes,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Very frequently,Rarely,1,No effect
+63,8,Yes,No,No,Rock,Yes,No,70,Sometimes,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Never,2,Improve
+64,2,Yes,No,No,Classical,No,No,,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Never,5,Improve
+22,2,Yes,No,No,Pop,No,No,,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,7,Improve
+24,1,Yes,No,No,Folk,No,Yes,103,Sometimes,Never,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,10,Improve
+19,8,Yes,No,No,Pop,Yes,Yes,99,Rarely,Sometimes,Sometimes,Very frequently,Never,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,7,Improve
+56,8,Yes,No,No,Pop,Yes,No,117,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,6,Improve
+20,1,No,No,No,EDM,Yes,No,102,Rarely,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Rarely,Very frequently,Rarely,Very frequently,Never,Never,Never,Never,5,Improve
+19,1,Yes,Yes,No,Video game music,No,No,127,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,7,Improve
+20,8,Yes,No,No,Jazz,Yes,Yes,93,Rarely,Sometimes,Rarely,Very frequently,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Sometimes,Rarely,7,Improve
+60,2,Yes,No,No,Rock,No,No,,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Never,0,Improve
+65,6,Yes,No,No,R&B,No,Yes,146,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Very frequently,Never,Sometimes,Never,3,No effect
+28,3,No,Yes,Yes,Metal,Yes,Yes,0,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Never,Very frequently,Very frequently,8,Improve
+18,4,Yes,Yes,No,EDM,No,Yes,150,Very frequently,Never,Very frequently,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Rarely,Sometimes,8,Improve
+42,2,Yes,No,No,Rock,No,Yes,85,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,2,Improve
+80,3,Yes,Yes,No,Classical,No,No,122,Very frequently,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Sometimes,7,Improve
+22,4,No,No,Yes,Pop,Yes,No,,Rarely,Sometimes,Very frequently,Sometimes,Never,Rarely,Never,Never,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Never,8,Improve
+56,2,No,No,No,Jazz,Yes,Yes,120,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Very frequently,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,0,No effect
+20,1,Yes,No,No,Pop,No,Yes,120,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Never,8,Improve
+15,1,Yes,No,No,Video game music,Yes,Yes,150,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,4,Improve
+67,1,No,No,No,Rock,No,No,,Sometimes,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,3,
+57,2,Yes,Yes,No,Gospel,No,No,174,Sometimes,Never,Never,Rarely,Very frequently,Never,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Never,Rarely,Never,6,Improve
+22,7,Yes,No,No,Pop,Yes,Yes,112,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,Very frequently,Sometimes,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,8,Improve
+17,5,Yes,No,No,Pop,Yes,Yes,180,Never,Never,Sometimes,Never,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,Sometimes,Rarely,Rarely,5,Improve
+19,3,Yes,No,No,Rock,No,No,121,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Sometimes,Very frequently,Sometimes,10,No effect
+50,1,No,No,No,Rock,No,No,98,Sometimes,Sometimes,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Never,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Never,0,Improve
+24,6,Yes,Yes,Yes,Rock,Yes,Yes,118,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Rarely,Sometimes,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Sometimes,8,Improve
+67,2,No,No,No,Rock,Yes,No,,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,8,No effect
+18,3,Yes,Yes,Yes,Metal,Yes,No,135,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,7,Improve
+20,1.5,Yes,No,No,Country,No,No,,Rarely,Very frequently,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Never,Sometimes,Sometimes,Never,0,Improve
+15,4,Yes,Yes,No,Pop,Yes,No,105,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,3,Improve
+17,2,Yes,Yes,No,Pop,Yes,Yes,122,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,Sometimes,Never,Never,5,Improve
+32,2,Yes,No,No,Folk,Yes,No,,Never,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,6,Improve
+18,2,No,No,No,Rap,Yes,Yes,136,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Very frequently,6,Improve
+18,1,Yes,Yes,Yes,Rock,Yes,No,165,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,5,Improve
+18,3,Yes,No,No,K pop,Yes,Yes,130,Sometimes,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Rarely,8,Improve
+19,3,Yes,No,No,Pop,Yes,No,,Never,Never,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,1,Improve
+18,2,No,Yes,No,Rock,Yes,No,115,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,8,Improve
+17,6,Yes,No,Yes,Rap,Yes,No,140,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Never,Sometimes,Never,Sometimes,Sometimes,Very frequently,Rarely,Never,3,Improve
+34,3,Yes,No,No,Classical,No,Yes,95,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,0,No effect
+18,3,Yes,No,No,Pop,No,No,150,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,Rarely,Never,Rarely,Rarely,Very frequently,Rarely,Very frequently,Rarely,Sometimes,5,No effect
+18,2,Yes,No,No,R&B,Yes,No,97,Never,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Rarely,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,2,Improve
+22,2,Yes,No,No,Video game music,No,No,,Sometimes,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Never,Never,Never,Very frequently,4,Improve
+18,2,Yes,No,Yes,Pop,Yes,No,,Sometimes,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,5,Improve
+19,3,Yes,No,No,Rock,Yes,Yes,122,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Never,4,No effect
+25,4,Yes,No,No,Pop,Yes,Yes,150,Rarely,Never,Sometimes,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Rarely,10,No effect
+17,2,Yes,Yes,Yes,R&B,Yes,No,,Very frequently,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Never,3,Improve
+25,5,Yes,Yes,No,Rock,Yes,No,125,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Sometimes,Very frequently,Sometimes,8,Improve
+18,2,Yes,No,No,R&B,No,No,96,Sometimes,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,3,Improve
+21,1,,,,K pop,Yes,,,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,4,
+24,7,Yes,No,No,Folk,Yes,Yes,137,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,10,Improve
+16,3,Yes,Yes,No,K pop,No,Yes,174,Rarely,Never,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Never,Very frequently,Rarely,Sometimes,Never,Never,10,Improve
+18,3,No,Yes,Yes,Metal,Yes,No,210,Never,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,Rarely,Never,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Rarely,9,Improve
+18,4,Yes,No,No,R&B,Yes,Yes,129,Rarely,Rarely,Rarely,Never,Never,Very frequently,Sometimes,Never,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,6,Improve
+16,3,Yes,No,No,Pop,Yes,No,112,Very frequently,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Very frequently,Never,Sometimes,Never,3,Improve
+68,1,Yes,No,No,Gospel,No,No,8,Very frequently,Never,Never,Sometimes,Very frequently,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,10,Improve
+16,7,Yes,No,No,Video game music,Yes,No,999999999,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Sometimes,Never,Very frequently,Rarely,Sometimes,4,No effect
+21,1,No,No,No,R&B,Yes,Yes,81,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Never,Never,Never,Very frequently,Very frequently,Sometimes,Never,Never,3,Improve
+53,4,Yes,No,No,R&B,Yes,Yes,153,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,1,Improve
+29,4,Yes,No,No,Classical,Yes,No,120,Very frequently,Never,Very frequently,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,5,No effect
+18,3,Yes,,No,Video game music,Yes,Yes,89,Sometimes,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Very frequently,7,No effect
+29,2,Yes,No,No,Pop,No,No,,Never,Never,Rarely,Rarely,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,Very frequently,Never,Very frequently,Never,Very frequently,10,Improve
+18,4,Yes,Yes,No,R&B,Yes,Yes,169,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,3,Improve
+22,5,Yes,No,No,EDM,Yes,Yes,138,Never,Never,Very frequently,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,1,No effect
+19,6,Yes,No,No,Pop,No,No,124,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,6,Improve
+13,1,Yes,No,No,Video game music,Yes,No,,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,4,Improve
+26,1,No,No,No,Pop,No,No,192,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Never,Very frequently,Rarely,Rarely,Sometimes,Never,6,Improve
+14,3,Yes,No,No,Rock,Yes,No,76,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,2,Worsen
+27,1,Yes,No,No,Pop,Yes,Yes,119,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,8,Improve
+26,8,No,No,No,Rock,No,Yes,172,Never,Sometimes,Sometimes,Very frequently,Never,Very frequently,Rarely,Very frequently,Never,Never,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,8,No effect
+59,1,No,Yes,No,Rock,No,No,79,Rarely,Never,Never,Rarely,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Very frequently,Never,1,Improve
+30,8,Yes,Yes,Yes,Rock,Yes,No,112,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Never,8,Improve
+27,1,Yes,No,No,Pop,Yes,Yes,130,Never,Rarely,Sometimes,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,6,Improve
+18,1,No,Yes,No,Rap,Yes,Yes,116,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Never,Sometimes,2,Improve
+23,10,Yes,Yes,Yes,Metal,No,Yes,165,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Sometimes,Never,0,No effect
+18,10,Yes,Yes,Yes,Rock,Yes,No,110,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Never,10,Improve
+40,5,Yes,No,No,Rock,Yes,Yes,174,Sometimes,Sometimes,Sometimes,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,3,Improve
+24,10,Yes,No,No,Rock,Yes,Yes,180,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Sometimes,7,Improve
+23,2,Yes,Yes,No,Classical,Yes,Yes,171,Very frequently,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Very frequently,Never,8,Improve
+56,6,Yes,No,No,R&B,No,No,,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,2,Improve
+29,2,Yes,No,No,R&B,Yes,No,70,Rarely,Never,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Sometimes,10,No effect
+16,3,Yes,No,No,Pop,No,Yes,120,Never,Never,Never,Never,Never,Very frequently,Never,Very frequently,Never,Never,Never,Very frequently,Sometimes,Never,Never,Never,6,Improve
+18,8,Yes,Yes,Yes,Gospel,Yes,Yes,56,Rarely,Never,Rarely,Never,Very frequently,Sometimes,Sometimes,Never,Sometimes,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Sometimes,3,Improve
+21,8,Yes,No,No,Lofi,Yes,Yes,162,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,6,Improve
+32,8,Yes,No,No,Rock,Yes,No,101,Never,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Sometimes,7,Improve
+22,8,Yes,Yes,No,Metal,Yes,No,110,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Never,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,10,Improve
+17,12,Yes,Yes,No,Latin,Yes,No,172,Very frequently,Never,Rarely,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Sometimes,0,No effect
+18,6,Yes,No,No,EDM,Yes,Yes,90,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,Rarely,Sometimes,0,Improve
+18,4,Yes,Yes,No,R&B,No,Yes,135,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Sometimes,Very frequently,Very frequently,Never,Rarely,2,No effect
+24,8,Yes,No,No,Jazz,Yes,No,81,Very frequently,Never,Rarely,Never,Never,Very frequently,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Very frequently,Rarely,2,No effect
+21,2,No,No,No,Pop,No,No,170,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,5,No effect
+46,1,No,No,No,Rock,No,No,120,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,0,No effect
+18,2,Yes,Yes,No,Hip hop,Yes,No,90,Never,Never,Never,Never,Sometimes,Very frequently,Never,Never,Never,Sometimes,Never,Sometimes,Very frequently,Very frequently,Never,Never,5,Improve
+16,3,Yes,Yes,No,K pop,Yes,Yes,115,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,2,Improve
+21,1,Yes,No,No,Video game music,Yes,Yes,,Very frequently,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,0,Improve
+19,0,No,No,No,Classical,Yes,Yes,,Very frequently,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,0,Improve
+20,2,Yes,Yes,Yes,Rap,Yes,Yes,,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,7,Improve
+21,0.1,Yes,Yes,No,Folk,No,Yes,,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Never,7,No effect
+56,2,Yes,No,No,Rock,No,Yes,220,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Very frequently,Never,3,No effect
+21,12,Yes,No,No,Rock,Yes,Yes,160,Sometimes,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Rarely,7,Worsen
+20,1,Yes,No,No,Pop,Yes,No,121,Rarely,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Never,3,Improve
+21,1,Yes,No,No,Rock,No,No,105,Sometimes,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,5,Improve
+25,3,Yes,No,No,Rock,No,No,110,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Very frequently,Sometimes,8,Improve
+33,2,Yes,No,No,Metal,Yes,Yes,134,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,4,Improve
+20,2,Yes,No,No,Rock,Yes,Yes,148,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,7,Improve
+17,3,Yes,Yes,No,Rock,Yes,No,120,Sometimes,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Never,Rarely,Very frequently,Very frequently,Never,Rarely,Very frequently,Never,1,No effect
+24,1,No,No,No,Jazz,Yes,Yes,122,Rarely,Never,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,3,No effect
+26,3,Yes,Yes,Yes,Jazz,Yes,Yes,90,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Never,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Rarely,6,Improve
+17,3,Yes,No,No,Rock,No,No,122,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Very frequently,6,Improve
+16,5,Yes,Yes,Yes,Metal,Yes,Yes,129,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,7,Improve
+27,8,Yes,No,No,Metal,Yes,No,132,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Sometimes,Never,2,No effect
+28,4,Yes,No,No,Hip hop,Yes,Yes,178,Rarely,Sometimes,Sometimes,Rarely,Never,Very frequently,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Rarely,8,Improve
+48,5,Yes,No,Yes,Rock,Yes,Yes,,Very frequently,Sometimes,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,3,Improve
+19,3,Yes,No,No,Rap,No,Yes,115,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Sometimes,7,Improve
+21,4,Yes,No,No,Rock,Yes,Yes,137,Sometimes,Very frequently,Rarely,Very frequently,Never,Sometimes,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,4,Improve
+21,1,Yes,Yes,No,Classical,No,No,92,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,3,Improve
+15,4,Yes,No,No,Metal,Yes,Yes,140,Rarely,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10,Improve
+20,1,No,No,No,Rock,Yes,Yes,130,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Very frequently,Never,10,Improve
+21,2,Yes,Yes,No,Video game music,No,Yes,,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,Never,Very frequently,Very frequently,2,Improve
+22,6,Yes,No,No,Folk,Yes,No,63,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,8,Improve
+22,2,No,No,No,Rock,No,No,119,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Never,Never,Very frequently,Sometimes,10,Improve
+31,1,Yes,No,No,Rock,Yes,No,,Very frequently,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Very frequently,9,No effect
+20,4,Yes,Yes,No,Metal,Yes,No,180,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Sometimes,5,Improve
+49,8,Yes,Yes,Yes,Classical,No,No,68,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,4,Improve
+42,2,Yes,No,No,Metal,Yes,Yes,85,Sometimes,Rarely,Never,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Never,Very frequently,Very frequently,7,Improve
+26,2,Yes,No,No,EDM,Yes,Yes,128,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Never,2,No effect
+17,10,Yes,No,Yes,K pop,Yes,Yes,150,Rarely,Sometimes,Rarely,Rarely,Never,Very frequently,Never,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,10,Improve
+30,0,No,No,No,Metal,No,No,0,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,10,Improve
+23,6,Yes,No,No,Folk,Yes,Yes,92,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,3,No effect
+30,3,Yes,No,No,EDM,Yes,Yes,121,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Very frequently,Never,Never,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Never,7,Improve
+31,2,Yes,No,No,Metal,No,Yes,155,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,Sometimes,7,Improve
+42,0.25,No,Yes,No,Classical,Yes,Yes,150,Very frequently,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Never,7,Improve
+16,4,Yes,No,No,EDM,Yes,Yes,624,Sometimes,Never,Very frequently,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,4,Improve
+34,2,No,No,No,Metal,Yes,No,136,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,5,Improve
+21,2,Yes,No,No,Pop,Yes,No,121,Sometimes,Never,Very frequently,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,5,No effect
+27,3,Yes,No,No,Pop,No,No,113,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,7,Improve
+18,6,Yes,No,No,Folk,Yes,Yes,80,Never,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,Improve
+26,3,No,No,No,Metal,Yes,No,140,Rarely,Very frequently,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,1,No effect
+37,2,Yes,No,No,Rock,Yes,No,100,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Never,8,Worsen
+26,5,Yes,Yes,No,Folk,Yes,Yes,92,Sometimes,Rarely,Rarely,Very frequently,Never,Very frequently,Very frequently,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,4,No effect
+19,4,No,No,No,Pop,No,Yes,120,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,9,No effect
+22,4,Yes,No,No,Rock,Yes,No,93,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Very frequently,10,Improve
+43,0,No,No,No,Rock,No,No,,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Never,1,No effect
+24,12,Yes,Yes,Yes,Rock,Yes,No,136,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,7,Improve
+21,0.5,No,No,No,Pop,No,No,108,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Never,Never,10,Worsen
+28,1,Yes,No,No,Rock,No,No,147,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,2,Improve
+23,3,Yes,No,No,R&B,Yes,Yes,93,Very frequently,Never,Never,Very frequently,Never,Very frequently,Very frequently,Never,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,3,No effect
+20,12,No,No,No,Rock,Yes,Yes,98,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,7,Improve
+17,4,Yes,Yes,Yes,Metal,No,No,120,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Never,Very frequently,Sometimes,4,Improve
+19,3,Yes,No,No,R&B,No,No,130,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,4,Improve
+32,1,Yes,No,No,Metal,Yes,Yes,218,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,6,Improve
+18,4,No,No,No,Folk,Yes,Yes,123,Sometimes,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,8,Improve
+20,2,Yes,Yes,Yes,Rock,Yes,No,135,Sometimes,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Never,Never,Very frequently,Sometimes,2,No effect
+27,3,Yes,No,No,Rock,Yes,Yes,105,Rarely,Never,Very frequently,Rarely,Never,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,8,Improve
+15,3,Yes,Yes,No,Rock,No,,132,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Never,Very frequently,Rarely,4,No effect
+26,1,Yes,No,No,Rock,Yes,Yes,,Rarely,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Very frequently,Rarely,Rarely,Very frequently,Sometimes,6,No effect
+24,2,Yes,No,No,Pop,Yes,Yes,115,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Sometimes,Rarely,Rarely,6,Improve
+20,1,Yes,No,No,K pop,Yes,Yes,120,Sometimes,Never,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Never,Rarely,Never,8,No effect
+21,0.5,Yes,No,No,Pop,Yes,Yes,,Never,Rarely,Never,Rarely,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,5,Improve
+16,2,Yes,No,No,Video game music,No,No,149,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,6,Improve
+21,11,Yes,Yes,Yes,Metal,Yes,Yes,125,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,5,Improve
+27,10,Yes,Yes,Yes,Jazz,Yes,Yes,132,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,6,Improve
+17,5,Yes,Yes,No,Rock,Yes,No,110,Very frequently,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Never,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,7,Improve
+21,1.5,Yes,Yes,No,Classical,Yes,Yes,110,Very frequently,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,4,No effect
+17,2,Yes,No,No,Folk,Yes,Yes,116,Very frequently,Sometimes,Never,Very frequently,Sometimes,Rarely,Very frequently,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Rarely,9,Improve
+21,3,No,No,No,Rap,Yes,Yes,145,Sometimes,Never,Never,Rarely,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,9,Improve
+17,2,No,No,Yes,Rock,Yes,No,,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,5,No effect
+36,3,Yes,No,No,Country,No,Yes,105,Very frequently,Very frequently,Sometimes,Never,Never,Rarely,Never,Very frequently,Sometimes,Never,Never,Rarely,Sometimes,Never,Never,Never,1,Improve
+18,4,No,No,No,R&B,Yes,Yes,80,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Never,8,Improve
+18,1,No,No,No,K pop,No,Yes,100,Never,Never,Rarely,Never,Never,Very frequently,Never,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Never,5,Improve
+18,5,Yes,Yes,No,Latin,Yes,Yes,73,Very frequently,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Never,Very frequently,Sometimes,Rarely,Sometimes,Never,10,Improve
+18,2,Yes,No,No,R&B,Yes,No,80,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Very frequently,Very frequently,Very frequently,Never,Never,7,Improve
+18,7,Yes,No,No,Hip hop,Yes,Yes,,Very frequently,Rarely,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Rarely,3,Improve
+18,2,Yes,No,No,Rap,Yes,Yes,,Rarely,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Never,Rarely,5,Improve
+18,1,Yes,No,No,Classical,No,No,120,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Rarely,Rarely,Rarely,Rarely,2,No effect
+18,1,No,Yes,No,Classical,No,No,117,Very frequently,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,7,No effect
+18,4,Yes,No,No,R&B,No,No,,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Never,8,No effect
+20,6,Yes,No,No,R&B,Yes,Yes,89,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Rarely,4,Improve
+19,3,Yes,No,No,Hip hop,Yes,No,115,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Rarely,3,Improve
+17,4,Yes,No,No,Hip hop,Yes,No,144,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Never,Very frequently,Never,Never,7,Improve
+23,4,Yes,No,No,Video game music,Yes,Yes,105,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,10,Improve
+18,1,Yes,Yes,Yes,Pop,Yes,No,114,Never,Rarely,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,7,Improve
+19,2,Yes,Yes,No,Pop,Yes,Yes,145,Rarely,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,5,No effect
+89,24,Yes,Yes,Yes,Rap,No,No,143,Never,Never,Rarely,Rarely,Never,Very frequently,Sometimes,Never,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Never,0,No effect
+20,5,Yes,Yes,Yes,R&B,Yes,Yes,128,Very frequently,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,10,Improve
+16,3,No,Yes,No,Rock,Yes,Yes,90,Rarely,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Never,7,Improve
+17,4,Yes,Yes,Yes,Country,Yes,Yes,110,Sometimes,Very frequently,Never,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Never,2,Improve
+16,9,Yes,No,No,Metal,No,Yes,130,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,10,Improve
+20,1,Yes,No,No,Pop,No,Yes,,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,8,Worsen
+30,1,Yes,Yes,No,Rock,Yes,Yes,115,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,9,Improve
+37,2,Yes,No,No,Folk,Yes,No,186,Sometimes,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Sometimes,6,Improve
+44,1.5,No,No,No,Folk,No,No,99,Rarely,Very frequently,Never,Very frequently,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,8,Improve
+21,2,Yes,Yes,No,Metal,Yes,Yes,150,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Rarely,3,Improve
+19,4,Yes,Yes,No,Pop,Yes,No,149,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,9,Improve
+23,1,Yes,Yes,No,Rock,Yes,Yes,,Rarely,Rarely,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,8,Improve
+26,1,No,No,No,Country,Yes,No,120,Sometimes,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,4,Improve
+18,3,Yes,No,No,Video game music,Yes,Yes,140,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Very frequently,6,No effect
+35,4,Yes,Yes,Yes,Hip hop,Yes,No,90,Sometimes,Rarely,Rarely,Sometimes,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,7,Improve
+16,8,Yes,Yes,Yes,Rock,Yes,No,120,Very frequently,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,8,Improve
+19,5,Yes,No,No,Metal,Yes,Yes,210,Never,Never,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8,Improve
+23,3,Yes,No,No,Rock,No,No,,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Never,10,Improve
+17,8,Yes,No,No,Pop,Yes,Yes,95,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Never,Very frequently,Never,Rarely,Rarely,Very frequently,5,No effect
+29,1,No,No,No,Country,Yes,No,163,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9,No effect
+21,4,Yes,Yes,Yes,Pop,No,No,97,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,4,Improve
+17,1,No,No,No,Metal,Yes,Yes,137,Sometimes,Never,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,9,Improve
+23,2,No,No,No,Rock,Yes,Yes,,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Never,5,No effect
+17,1,Yes,Yes,No,Metal,Yes,Yes,70,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Never,Never,Very frequently,Very frequently,8,No effect
+22,3,Yes,No,No,Video game music,Yes,Yes,150,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Very frequently,10,Improve
+17,5,Yes,No,No,Hip hop,Yes,No,168,Rarely,Sometimes,Very frequently,Never,Sometimes,Very frequently,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Rarely,7,Improve
+19,5,Yes,Yes,No,Pop,Yes,Yes,163,Very frequently,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Very frequently,Rarely,Rarely,Sometimes,Rarely,10,Improve
+19,4,Yes,No,No,Pop,Yes,Yes,140,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,8,Improve
+16,6,Yes,No,No,Pop,Yes,Yes,105,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Never,10,Improve
+19,6,Yes,No,No,Pop,Yes,Yes,78,Rarely,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Sometimes,6,Improve
+13,1,Yes,No,No,Video game music,Yes,No,128,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Never,Sometimes,Sometimes,Very frequently,10,Worsen
+18,18,Yes,No,No,EDM,Yes,No,90,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,9,Improve
+26,1,Yes,No,No,Metal,Yes,Yes,136,Sometimes,Rarely,Sometimes,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Rarely,Never,Never,Never,Rarely,0,No effect
+14,7,Yes,Yes,No,Country,Yes,No,108,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,7,Improve
+21,0.5,No,No,No,Pop,Yes,No,95,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,Very frequently,Sometimes,Sometimes,Very frequently,Never,6,Improve
+21,2,Yes,No,No,R&B,Yes,Yes,147,Sometimes,Never,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,7,Improve
+17,2,Yes,Yes,No,Rock,Yes,Yes,120,Very frequently,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Very frequently,Never,7,Improve
+18,1,Yes,Yes,No,Pop,Yes,Yes,160,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Very frequently,Never,Never,Sometimes,Sometimes,3,Improve
+19,6,Yes,No,Yes,Rap,Yes,No,120,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,2,Improve
+19,5,Yes,Yes,No,Classical,No,No,170,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,2,Improve
+29,2,Yes,No,No,Hip hop,Yes,Yes,98,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,2,Improve
